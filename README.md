@@ -22,7 +22,7 @@ layouts, and event handling work together in a real application.
 
 ## Run it yourself
 ```bash
-python calculator.py
+python code.py
 ```
 ## Output
 ![Calculator Screenshot](calculator.png)
