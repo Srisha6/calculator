@@ -24,7 +24,8 @@ layouts, and event handling work together in a real application.
 ```bash
 python calculator.py
 ```
-
+## Output
+![Calculator Screenshot](calculator.png)
 ## Behind the scenes
 - Used `grid()` to arrange buttons in a clean layout
 - `eval()` handles the actual math
